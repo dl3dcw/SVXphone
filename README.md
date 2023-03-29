@@ -18,7 +18,7 @@ In Vorbereitung ...
 
 ## Support:
 
-[http://SVXcube.de/support](http://SVXcube.de/support) (Forum)
+[http://SVXphone.de/support](http://SVXphone.de/support) (Forum)
 
 ## Hardware:
 
