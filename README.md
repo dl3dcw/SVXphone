@@ -6,15 +6,15 @@ Der etwas andere HotSpot für das [FM-Funknetz](https://fm-funknetz.de)
 
 ## Manual:
 
-In Vorbereitung
+In Vorbereitung ...
 
 ## Image:
 
-In Vorbereitung
+In Vorbereitung ...
 
 ## Installation:
 
-In Vorbereitung
+In Vorbereitung ...
 
 ## Support:
 
@@ -32,4 +32,4 @@ Waveshare UPS HAT (C)
 
 ## Modifications:
 
-In Vorbereitung
+In Vorbereitung ...
