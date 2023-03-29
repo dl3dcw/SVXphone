@@ -6,4 +6,4 @@ Der etwas andere HotSpot für das [FM-Funknetz](https://fm-funknetz.de)
 
 ## Support:
 
-[http://SVXcube.de/support](http://SVXphone.de/support) (Forum)
+[http://SVXphone.de/support](http://SVXphone.de/support) (Forum)
