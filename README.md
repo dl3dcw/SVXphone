@@ -4,7 +4,7 @@ Der etwas andere HotSpot für das [FM-Funknetz](https://fm-funknetz.de)
 
 ![SVXphone](http://SVXphone.de/pictures/title.jpg)
 
-# Manual:
+#ä Manual:
 
 In Vorbereitung
 
