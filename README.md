@@ -4,7 +4,7 @@ Der etwas andere HotSpot für das [FM-Funknetz](https://fm-funknetz.de)
 
 ![SVXphone](http://SVXphone.de/pictures/title.jpg)
 
-#ä Manual:
+## Manual:
 
 In Vorbereitung
 
@@ -22,8 +22,14 @@ In Vorbereitung
 
 ## Hardware:
 
-M5Stack ESP32 Basic Core (K001-V26)
+Raspberry Pi Zero 2 WH
 
-MicroSD Speicherkarte (8GB reicht völlig aus) 
+Waveshare WM8960 Audio HAT
 
-M5Stack BTC Standing Base (A011-B, optional)
+Waveshare 1.3inch LCD HAT 
+
+Waveshare UPS HAT (C) 
+
+## Mods:
+
+In Vorbereitung
