@@ -1,8 +1,8 @@
-# SVXcube 
+# SVXphone 
 
 Der etwas andere HotSpot für das [FM-Funknetz](https://fm-funknetz.de)
 
-![SVXcube](http://SVXphone.de/pictures/title.jpg)
+![SVXphone](http://SVXphone.de/pictures/title.jpg)
 
 ## Support:
 
