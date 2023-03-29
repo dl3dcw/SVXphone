@@ -30,6 +30,6 @@ Waveshare 1.3inch LCD HAT
 
 Waveshare UPS HAT (C) 
 
-## Mods:
+## Modifications:
 
 In Vorbereitung
