@@ -20,7 +20,7 @@ In Vorbereitung ...
 
 [http://SVXphone.de/support](http://SVXphone.de/support) (Forum)
 
-## Hardware:
+<!--- ## Hardware:
 
 Raspberry Pi Zero 2 WH
 
@@ -32,4 +32,4 @@ Waveshare UPS HAT (C)
 
 ## Modifications:
 
-In Vorbereitung ...
+In Vorbereitung ... --->
