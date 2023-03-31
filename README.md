@@ -2,7 +2,7 @@
 
 Der etwas andere HotSpot für das [FM-Funknetz](https://fm-funknetz.de)
 
-![SVXphone](http://SVXphone.de/pictures/title.jpg)
+![SVXphone](http://SVXphone.de/pictures/svxphone.jpg)
 
 ## Manual:
 
