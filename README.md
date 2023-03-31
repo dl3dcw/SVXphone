@@ -20,9 +20,11 @@ In Vorbereitung ...
 
 [http://SVXphone.de/support](http://SVXphone.de/support) (Forum)
 
-<!--- ## Hardware:
+## Hardware:
 
-Raspberry Pi Zero 2 WH
+In Vorbereitung ...
+
+<!--- Raspberry Pi Zero 2 WH
 
 Waveshare WM8960 Audio HAT
 
