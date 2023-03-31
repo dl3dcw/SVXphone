@@ -30,8 +30,8 @@ Waveshare WM8960 Audio HAT
 
 Waveshare 1.3inch LCD HAT 
 
-Waveshare UPS HAT (C) 
+Waveshare UPS HAT (C) --->
 
 ## Modifications:
 
-In Vorbereitung ... --->
+In Vorbereitung ... 
